@@ -1,32 +1,7 @@
 ```mermaid
-flowchart TB
-
-%% Process for each campaing has %%
-%% ----------------------------- %%
-
-S(Campaing starts)
-DS(Vote on trustees)
-DB(Vote on beneficiaries)
-S --> DS
-S --> DB
-
-SMG(Setup and publish MultiSig Wallet)
-
-DS --> SMG
-DB --> SMG
-
-CD(Collect Donations for 90 days)
-
-SMG --> CD
-
-IPOD(Issue proof of donations NFT)
-ED(Execute MultiSig Donation)
-
-CD --> IPOD
-CD --> ED
-
-PR(Publish Campaign Results)
-
-IPOD & ED --> PR
-
-PR --> |Lessons learned| S
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```

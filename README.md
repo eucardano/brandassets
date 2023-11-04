@@ -5,5 +5,3 @@ All assets being used in regards to European Cardano Community
 flowchart TB
 A --> B
 ```
-
-Test

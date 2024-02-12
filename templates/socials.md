@@ -23,7 +23,7 @@ GitHub:
 ```
 
 
-## ... or use the full copy
+## ... or use the option to full copy and remove the slashes
 
 ```
 Could you send me your logo please?  

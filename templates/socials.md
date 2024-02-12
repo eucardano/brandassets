@@ -5,7 +5,7 @@ Could you send me your logo please?
 Best would be a png **width: 515px heigth 110px**. 
 Just check on our latest YT.  
 
-If you have a **onepager** slide you want us to implement into our session deck, just send it to me.  
+If you have a **onepager** (1920 x 1080px) slide you want us to implement into our session deck, just send it to me.  
 
 We also add your socials to the YT video.  
 Could you please help me with this? 
@@ -31,7 +31,7 @@ Could you send me your logo please?
 Best would be a png **width: 515px heigth 110px**. 
 Just check on our latest YT.  
 
-If you have a **onepager** slide you want us to implement into our session deck, just send it to me.  
+If you have a **onepager** (1920 x 1080) slide you want us to implement into our session deck, just send it to me.  
 
 We also add your socials to the YT video.  
 Could you please help me with this? 

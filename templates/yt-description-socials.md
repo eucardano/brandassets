@@ -20,12 +20,12 @@ Best would be a png or svg with these dimensions `width: 515px heigth 110px`.
 
 ### Onepager
 
-A **onepager** `width 1920 x height 1080px` slide is your perfect opportunity to add some visual information to your talk/presentation.  
+A **onepager** presentation slide `width 1920 x height 1080px` is your perfect opportunity to add some visual information to your talk/presentation.  
 We will implement it latest on presentation day 12CET.
 Everything after that is not guaranteed to be included in the presentation.   
 
 
-#### Socials
+### Socials
 
 We also add your socials to the YT video and our X/Twitter posts.  
 Please remove those parts you don't need. 

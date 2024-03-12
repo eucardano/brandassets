@@ -5,6 +5,9 @@ If you are reading this you have been directly invited by us or you are on the v
 Either way we are thrilled to having you as a prospect for one of our Fireside Chats.  
 Thank you for helping us to present your brand in the best way.  
 
+Here is a introductional video (2 minutes): https://youtu.be/pDHTGvE_XsQ
+
+
 ### What this is for
 
 Please use the information below from this template to streamline our process.
@@ -12,6 +15,11 @@ If you have been invited then we did sent you the link to an issue.
 Simply add your information (logo, socials, onepager) there as a comment. 
 
 If you are in doubt of how we will use the information just check one our latest videos at https://youtube.com/@eucardano .  
+
+### Speaker
+
+Let us know your name or how we should address you.  
+We usually have a casual first name approach.
 
 ### Logo
 

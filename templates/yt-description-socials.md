@@ -7,7 +7,6 @@ Thank you for helping us to present your brand in the best way.
 
 Here is a introductional video (2 minutes): https://youtu.be/pDHTGvE_XsQ
 
-
 ### What this is for
 
 Please use the information below from this template to streamline our process.
@@ -48,3 +47,16 @@ YouTube: https://youtube.com/@
 Telegram:
 GitHub: 
 ```
+
+
+### Leverage your presence
+
+For higher visibility we want to encourage you to join our [Discord](https://discord.gg/nSnPMNwxrJ) server and add your project in the project channel.
+The greeting bot will guide you the way with the link to the channel.  
+Tag the country/region of your headquarter(s) so your local community can connect.
+
+
+### Register to Participate
+
+Join us for this talk and set a reminder for upcoming spaces.  
+Zoom Registration: https://zoom.us/meeting/register/tJUlcO2urDIsGtW-tNJtRYkhifo12e1RO_eR

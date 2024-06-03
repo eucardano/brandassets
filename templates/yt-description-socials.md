@@ -59,4 +59,4 @@ Tag the country/region of your headquarter(s) so your local community can connec
 ### Register to Participate
 
 Join us for this talk and set a reminder for upcoming spaces.  
-Zoom Registration: https://zoom.us/meeting/register/tJUlcO2urDIsGtW-tNJtRYkhifo12e1RO_eR
+Zoom Registration: https://us06web.zoom.us/meeting/register/tZ0vcOmvrTgrHdCNi3AMKn-bnSroZV50eDCE

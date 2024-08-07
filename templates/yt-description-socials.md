@@ -7,6 +7,22 @@ Thank you for helping us to present your brand in the best way.
 
 Here is a introductional video (2 minutes): https://youtu.be/pDHTGvE_XsQ
 
+#### Updates:
+```
+We are trying to get more conversation and value for founders into the format.  
+Thus the initial presentation time has been shortened to around 2-5 minutes.  
+This allows you to learn about the other speakers on the podium.
+```
+
+```
+If you can add a little tip or experience you can share with fellow founders.  
+We will try to extract it as a YouTube short.
+````
+
+After everyone has been introduced we'll hopp into the actual Fireside Chat. 
+You can always refer to your project, now with the advantage of having more context. 
+
+
 ### What this is for
 
 Please use the information below from this template to streamline our process.

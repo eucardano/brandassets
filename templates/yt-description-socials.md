@@ -44,7 +44,9 @@ Best would be a png or svg with these dimensions `width: 515px heigth 110px`.
 ### Onepager
 
 A **onepager** presentation slide `width 1920 x height 1080px` is your perfect opportunity to add some visual information to your talk/presentation.  
-We will implement it latest on presentation day 12CET.
+To keep the conversational flow, we won't enable screensharing or longer presentations.  
+
+We will implement the slide to our slidedeck latest on presentation day 12CET.
 Everything after that is not guaranteed to be included in the presentation.   
 
 
@@ -71,6 +73,12 @@ For higher visibility we want to encourage you to join our [Discord](https://dis
 The greeting bot will guide you the way with the link to the channel.  
 Tag the country/region of your headquarter(s) so your local community can connect.
 
+### Find a Date
+
+If we haven't suggested a date yet, have a look at this list and see which date suits you: https://github.com/orgs/eucardano/projects/8/views/1?filterQuery=fireside+  
+The meetings happen fortnightly Thursdays at 18:30 CET, with three podium guests.  
+If we haven't been in contact yet, comment into one of the items suiting your date to request a spot. 
+If the items hasn't been scheduled yet, feel free to reach out or to create a new issue (please mind the forntightly schedule).  
 
 ### Register to Participate
 

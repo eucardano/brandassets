@@ -83,4 +83,4 @@ If the items hasn't been scheduled yet, feel free to reach out or to create a ne
 ### Register to Participate
 
 Join us for this talk and set a reminder for upcoming spaces.  
-Zoom Registration: https://us06web.zoom.us/meeting/register/tZ0vcOmvrTgrHdCNi3AMKn-bnSroZV50eDCE
+Zoom Registration: https://us06web.zoom.us/j/86885329886?pwd=K1iHnvEeTm4YNECQszhkqN1jIKQmuM.1

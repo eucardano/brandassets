@@ -91,6 +91,10 @@ AWESOME! 🔥
 
 #### Post 1: NFTweekend Announcement
 
+
+![NFTweekend](https://github.com/user-attachments/assets/2eb11d0e-9930-4f8b-b221-febc47ae6f8d)
+
+
 ```
 REPOST! Happy NFTweekend to win an NFT from our great CNFTCommunity. 🔥  
 We will check the results on Tuesday! ❤️ 

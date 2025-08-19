@@ -148,7 +148,7 @@ And the winner is...
 
 🏆🏆🏆
  
-Please join our Discord and open a ticket to claim your favorite #CNFT from our wallet (our @adahandles are still excluded 😇)! 
+Please join our Discord ( → https://eucardano.org/discord) and open a ticket to claim your favorite #CNFT from our wallet (our @adahandles are still excluded 😇)! 
 
 Check it out here: https://pool.pm/$eucardano
 
